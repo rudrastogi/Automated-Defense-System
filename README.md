@@ -40,3 +40,9 @@ If no input, servo motor locks onto the face and simulates firing.
 If recognized:
 
 Displays Name and authorised
+
+TO RUN:
+run command "sudo pigpiod" in terminal,
+then capture images with image capture with proper name,
+then train model,
+and run facial_recognition_hardware1.py
